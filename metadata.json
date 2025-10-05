@@ -1,0 +1,5 @@
+{
+  "name": "Dan Chat AI",
+  "description": "A friendly and intelligent chat companion powered by Google's Gemini API. Engage in natural conversations, ask questions, and get creative responses.",
+  "requestFramePermissions": []
+}
